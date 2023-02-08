@@ -29,9 +29,9 @@
 			<key>metadata</key>
 			<dict>
 				<key>bundle-identifier</key>
-				<string>com.vision.Dazhongsiiot.inhouset</string>
+				<string>com.vision.Dazhongsiiot.inhouse</string>
 				<key>bundle-version</key>
-				<string>1.2</string>
+				<string>1.2.0</string>
 				<key>kind</key>
 				<string>software</string>
 				<key>platform-identifier</key>
