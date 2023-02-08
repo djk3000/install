@@ -11,7 +11,7 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>https://github.com/djk3000/install/raw/main/Wave.ipa</string>
+					<string>https://github.com/djk3000/install/raw/main/ByteDance.ipa</string>
 				</dict>
 				<dict>
 					<key>kind</key>
@@ -29,7 +29,7 @@
 			<key>metadata</key>
 			<dict>
 				<key>bundle-identifier</key>
-				<string>com.shgbit.WaveTest</string>
+				<string>com.vision.Dazhongsiiot.inhouset</string>
 				<key>bundle-version</key>
 				<string>1.0</string>
 				<key>kind</key>
@@ -37,7 +37,7 @@
 				<key>platform-identifier</key>
 				<string>com.apple.platform.iphoneos</string>
 				<key>title</key>
-				<string>WaveTest</string>
+				<string>ByteDance</string>
 			</dict>
 		</dict>
 	</array>
